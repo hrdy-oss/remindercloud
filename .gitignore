@@ -1,0 +1,7 @@
+# Local credentials — never commit these.
+# Use the *.example.php files as the template instead.
+app/*.local.php
+
+# Runtime data
+data/*.sqlite
+data/*.db
